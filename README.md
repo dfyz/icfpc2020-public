@@ -30,7 +30,7 @@ A 2x5 table filled with numbers. The label for the first row is `C + H + V + D`,
 
 ## Tutorial levels from the Battleground
 
-We basically fly a small ship and dock to space stations. You are presented with a cockpit when you click on the ship.
+We basically fly a small ship and make space stations explode. You are presented with a cockpit when you click on the ship.
 
 ![Cockpit](/cockpit.png)
 
@@ -38,7 +38,7 @@ We basically fly a small ship and dock to space stations. You are presented with
 
 Cockpit buttons control the ship:
   * `T`: the **t**hrust control panel. Choose one of 8 possible directions to engage the thruster and accelerate.
-  * `R`: **р**уль for docking (I should have used `D` for this one, but oh well). Pressing this activates docking on your next turn (you'd better be near a space station).
+  * `R`: d**r**op the bombs (I should have used `D` for this one, but oh well). Pressing this make an explosion happen on your next turn (you'd better be near a space station).
 
 Cockpit counters show confusing numbers:
   * `A`: always zero in all tutorial levels we have unlocked. Purpose unclear.
